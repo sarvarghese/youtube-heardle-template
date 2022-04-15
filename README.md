@@ -1,30 +1,7 @@
-# Słuchaj.fun
-![Screenshot of the website](https://i.imgur.com/PnLgjWQ.png)
+# Heardle Template
 
-Made in few hours, [Słuchaj.fun](https://sluchaj.fun) is a clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
-It contains Polish songs, that are played through the YouTube iFrame API.
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-# Tech stack
-* [React](https://reactjs.org)
-* [TypeScript](https://www.typescriptlang.org)
-* [styled-components](https://styled-components.com)
-* [YouTube iFrame API](https://developers.google.com/youtube/iframe_api_reference)
-
-# To do
-* Add Storybook
-* Add tests
-* Disable/bypass iFrame's Media Session API
-
-# Contributing
-We're open to contributions! Feel free to open an issue or pull request.
-
-Keep in mind, that this repository follows the [Conventional Commits](https://conventionalcommits.org/) specification.
-
-Please format the code with ESLint and Prettier as well.
-
-`npx eslint src/ --fix`
+Forked from [Słuchaj.fun](https://sluchaj.fun) is a clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
+Uses through the YouTube iFrame API.
 
 # Building (default React stuff)
 
