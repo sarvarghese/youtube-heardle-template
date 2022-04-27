@@ -1,6 +1,7 @@
 # Heardle Template
 
-Forked from [Słuchaj.fun](https://sluchaj.fun) is a clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
+Forked from [Shizerq](https://github.com/Shizerq/sluchajfun) 
+Clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
 Uses through the YouTube iFrame API.
 
 # Building (default React stuff)
