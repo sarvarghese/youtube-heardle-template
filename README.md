@@ -4,6 +4,8 @@ Forked from [Shizerq](https://github.com/Shizerq/sluchajfun)
 Clone of famous [Heardle](https://heardle.app) - "that daily music game". <br />
 Uses through the YouTube iFrame API.
 
+4/28/22 - issues with video availability
+
 # Building (default React stuff)
 
 In the project directory, you can run:
